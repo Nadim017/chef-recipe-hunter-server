@@ -6,6 +6,7 @@
     "yearsOfExperience": 8,
     "numbersOfRecipes": 120,
     "likes": 2500,
+    "description": "British celebrity chef known for his fiery personality and Michelin-starred restaurants. He has hosted several TV shows, including Hell's Kitchen  and is known for his expertise in French and British cuisine.",
     "recipeNames": [
       {
         "recipeName": "Spaghetti Carbonara",
@@ -47,6 +48,7 @@
     "yearsOfExperience": 5,
     "numbersOfRecipes": 75,
     "likes": 1800,
+    "description": "Italian chef and restaurateur who is widely regarded as one of the best chefs in the world. He is the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy, and is known for his inventive take on traditional Italian cuisine.",
     "recipeNames": [
       {
         "recipeName": "Spaghetti Carbonara",
@@ -88,6 +90,7 @@
     "yearsOfExperience": 5,
     "numbersOfRecipes": 75,
     "likes": 1800,
+    "description": "American chef and TV personality who is credited with bringing French cuisine to the United States. She hosted the TV show The French Chef and wrote several cookbooks, including Mastering the Art of French Cooking, which is still considered a classic today.",
     "recipeNames": [
       {
         "recipeName": "Spaghetti Carbonara",
@@ -128,6 +131,7 @@
     "yearsOfExperience": 12,
     "numbersOfRecipes": 200,
     "likes": 3000,
+    "description": "American chef and restaurateur who has been awarded multiple Michelin stars for his restaurants, including The French Laundry in Napa Valley, California. He is known for his emphasis on quality ingredients and precise cooking techniques.",
 
     "recipeNames": [
       {
@@ -170,6 +174,7 @@
     "yearsOfExperience": 3,
     "numbersOfRecipes": 50,
     "likes": 1200,
+    "description": "American chef and food activist who is known for her advocacy of locally sourced, organic ingredients. She is the owner of Chez Panisse, a restaurant in Berkeley, California, and has been a pioneer of the farm-to-table movement.",
 
     "recipeNames": [
       {
@@ -211,6 +216,7 @@
     "yearsOfExperience": 7,
     "numbersOfRecipes": 100,
     "likes": 2000,
+    "description": "British chef and owner of The Fat Duck, a three-Michelin-starred restaurant in Berkshire, England. He is known for his experimental approach to cooking, incorporating techniques from molecular gastronomy and psychology into his dishes.",
 
     "recipeNames": [
       {
